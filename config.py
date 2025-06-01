@@ -1,0 +1,3 @@
+
+BOT_TOKEN = "YOUR_TELEGRAM_BOT_TOKEN"
+ADMINS = ["vip_arabiy"]
